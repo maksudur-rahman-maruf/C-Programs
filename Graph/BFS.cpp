@@ -45,7 +45,7 @@ void BFS(int sx,int nodes)
 
 int main()
 {
-    /// freopen("st.txt","rt",stdin);
+    ////// freopen("st.txt","rt",stdin);
     int n,e,i,x,y;
     while(cin>>n && n)
     {
